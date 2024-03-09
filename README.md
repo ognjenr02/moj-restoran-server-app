@@ -30,10 +30,10 @@ This project is an Express.js server application that interfaces with a MySQL da
 
 ### Installing
 
-    Clone the repository to your local machine.
-    Install the required dependencies:
+Clone the repository to your local machine.
+Install the required dependencies:
 
-npm install
+    npm install
 
 Set up your MySQL database and create the necessary tables.
 Create a .env file in the root directory and fill in your MySQL credentials:
@@ -46,11 +46,11 @@ Create a .env file in the root directory and fill in your MySQL credentials:
 
 ### Executing program
 
-    Start the server:
+Start the server:
 
     npm start
 
-    The server will be running on http://localhost:8080.
+The server will be running on http://localhost:8080.
 
 
 ## API Reference
